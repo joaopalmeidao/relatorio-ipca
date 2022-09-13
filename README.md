@@ -3,4 +3,4 @@
 
 
 * Execute main.py para gerar o Relatório
-* O relatório será gerado em no arquivo de excel "RelatorioIPCA_ANO.xlsx"
+* O relatório será gerado em um arquivo de excel "RelatorioIPCA_ANO.xlsx"
